@@ -1,6 +1,6 @@
 # Polygon Proof of Stake - OnePiece NFT Contract Guide
 
-This project  guide outlines the steps for deploying and interacting with the N NFT contract on the Polygon network using the Proof of Stake mechanism. The contract is based on the ERC721A standard and allows the creation and management of unique NFTs.
+This project  guide outlines the steps for deploying and interacting with the Nisha NFT contract on the Polygon network using the Proof of Stake mechanism. The contract is based on the ERC721A standard that allows the creation and management of unique NFTs.
 
 # Smart Contract Overview
 
