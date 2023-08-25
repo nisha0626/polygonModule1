@@ -19,7 +19,7 @@ async function main() {
   const signer = new ethers.Wallet(privateKey, provider);
 
   // The address of the deployed contract that we want to interact with
-  const contractAddress = "0x135A09AF37b01fcE9D29F42fdE7eDa32E777a18D";
+  const contractAddress = "0xB5C590e5a4766991DD20aaB6A371D982480fB300";
 
   // Get the contract factory for the Nisha contract and attach it to the signer
   const OneNFT = await ethers.getContractFactory("Nisha", signer);
