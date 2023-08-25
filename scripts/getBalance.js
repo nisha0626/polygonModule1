@@ -1,7 +1,7 @@
 const hre = require("hardhat");
 const tokenContractJSON = require("../artifacts/contracts/nisha.sol/Nisha.json");
 
-const tokenAddress = "0x6FbeE3f9594E3f307140c84946d246aA5cBB2B3c"; // Ethereum address of the deployed ERC721A contract
+const tokenAddress = "0x63C7aaf4e96dDe0bBE9fFC5325A9Fb2B4f9E8270"; // Ethereum address of the deployed ERC721A contract
 const tokenABI = tokenContractJSON.abi;
 const walletAddress = "0x6CAdfaaf2ea038fBbd95131E4a90c221e89D1b85"; // Ethereum public address for the wallet
 
