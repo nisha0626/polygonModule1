@@ -8,7 +8,7 @@ This project  guide outlines the steps for deploying and interacting with the Ni
 
 * ERC721A Import: The contract extends the ERC721A contract, implementing the ERC721A standard.
 
-* Contract Name and Symbol: Contract named "OnePiece" with symbol "OP".
+* Contract Name and Symbol: Contract named "Nisha" with symbol "NIS".
 
 * Maximum Quantity of Tokens: The contract allows minting up to 5 NFTs.
 
